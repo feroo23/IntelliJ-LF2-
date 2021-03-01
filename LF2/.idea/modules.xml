@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LF2.iml" filepath="$PROJECT_DIR$/LF2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rollenspiel/Rollenspiel.iml" filepath="$PROJECT_DIR$/Rollenspiel/Rollenspiel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arbeit/arbeit.iml" filepath="$PROJECT_DIR$/arbeit/arbeit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arbeit/fußball.iml" filepath="$PROJECT_DIR$/arbeit/fußball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fußballl/fußballl.iml" filepath="$PROJECT_DIR$/fußballl/fußballl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obst/obst.iml" filepath="$PROJECT_DIR$/obst/obst.iml" />
+    </modules>
+  </component>
+</project>
